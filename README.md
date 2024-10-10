@@ -8,7 +8,7 @@ GDT-Maker - Genome Distance Tree Maker
 ```
 git clone https://github.com/bioifsc/gdt-maker.git
 cd gdt-maker/
-docker build -t bioifsc/gdt-make .
+docker build -t bioifsc/gdt-maker .
 ```
 
 ## Run
